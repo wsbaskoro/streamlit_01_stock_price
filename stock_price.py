@@ -4,7 +4,7 @@ import pandas as pd
 
 st.write("""
 # Simple Stock Price App
-@sigitbaskoro > 2022.03.14\n
+@sigitbaskoro > 2022.03.15\n
 Shown are the stock **closing price** and ***volume*** of Google!
 
 """)
